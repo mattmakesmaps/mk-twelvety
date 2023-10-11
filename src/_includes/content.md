@@ -19,7 +19,7 @@ Below are some woodworking projects from the pandemic era forward. I rely mainly
 
 ![Three maple and cherry bookshelves mounted to the wall.](shelves.jpeg)
 
-![Cherry frame with two coffee bags mounted. The roasts are called "Black Lives Matter" and "Gimmie Shelter Blend".](frame_1.jpeg)
+![Cherry frame with two coffee bags mounted. The roasts are called Black Lives Matter and Gimmie Shelter Blend.](frame_1.jpeg)
 
 ![A maple and cherry jewelry cabinet mounted to a wall, door closed.](cabinet_closed.jpeg)
 
