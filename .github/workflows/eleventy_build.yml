@@ -12,11 +12,10 @@ jobs:
             python-version: '3.10'
       - name: Test python
         run: python --version
+      - name: Install
+        run: npm install
       - name: Build
-        uses: TartanLlama/actions-eleventy@master
-        with:
-            args: --output _dist
-            install_dependencies: true
+        run: npm build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
